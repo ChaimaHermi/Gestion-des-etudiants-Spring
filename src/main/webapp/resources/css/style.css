@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+#formEtudiants{
+padding: 10px;
+margin: 10px;
+border: 1px solid gray;
+}
+th{
+ font-weight: bold;
+  padding: 12px 30px;
+  padding-left: 42px;
+   background: #acc8dd;
+  
+  
+
+}
+td{
+ font-weight: bold;
+  padding: 12px 30px;
+  padding-left: 42px;
+   
+   
+  
+
+}
+.error{
+color: red;
+}
+
+
+#button {
+  background-color: gray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: right;
+  cursor: pointer;
+  
+}
+
+
+h1{
+	color : rgb(112, 163, 235)  ;
+        font-family:sans-serif;
+        
+        font-size: 50px ;
+       
+        margin: 200px;
+        display: inline;
+        
+}
+
